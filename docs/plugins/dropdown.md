@@ -2,7 +2,7 @@ title: Reactive JavaScript Dropdown | LemonadeJS
 keywords: JavaScript dropdown plugin, LemonadeJS Dropdown, framework-agnostic JavaScript, Vue, React, Angular, customizable, autocomplete, lazy loading, efficient, UI component, web development.
 description: Explore LemonadeJS Dropdown, a JavaScript plugin compatible with Vue, React, and Angular. Features include autocomplete, smart loading, and easy integration for efficient option management.
 
-JavaScript Dropdown
+[JavaScript Dropdown](https://jspreadsheet.com/docs/v8/dropdown-and-autocomplete)
 ===============
 
 The LemonadeJS Dropdown is a lightweight, high-performance JavaScript plugin with a reactive design. It offers various configurable options and integrates seamlessly with popular front-end frameworks like Vue, React, and Angular. The main key features include:
