@@ -5,7 +5,7 @@ description: Multi-use, flexible, reactive JavaScript context menu plugin. This 
 LemonadeJS Context Menu
 ==================
 
-The LemonadeJS Context Menu is a reactive JavaScript plugin to create dynamic and interactive menu navigation on web applications. It provides a customizable and user-friendly experience, featuring intelligent configurations that automatically adjust the menu's position to prevent it from disappearing off-screen, thus enhancing both the user experience and the responsive design of your application.
+The LemonadeJS [Context Menu](https://jspreadsheet.com/docs/v8/contextmenu) is a reactive JavaScript plugin to create dynamic and interactive menu navigation on web applications. It provides a customizable and user-friendly experience, featuring intelligent configurations that automatically adjust the menu's position to prevent it from disappearing off-screen, thus enhancing both the user experience and the responsive design of your application.
 
 This plugin allows for the customization of the menu's behaviour to align with the specific needs of your application. Whether executing direct actions or unveiling nested options for an in-depth selection process, the Context Menu adapts effortlessly to various user interactions.
 
