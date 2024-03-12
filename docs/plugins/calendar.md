@@ -4,7 +4,7 @@ description: Discover the versatility of our Sleek Calendar, a stylish and funct
 
 ![JavaScript Calendar](img/javascript-calendar.jpg){style="width: initial; margin: 60px;"}
 
-JavaScript Calendar
+[JavaScript Calendar](https://jspreadsheet.com/docs/v8/date-and-calendar)
 ==================
 
 `JavaScript Components`{.jtag .black .framework-images}
